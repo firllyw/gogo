@@ -52,7 +52,7 @@ user-service/
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/firllyw/gogo.git // not an actual repo, i zip this code. 
+git clone https://github.com/firllyw/gogo.git
 cd gogo
 ```
 
